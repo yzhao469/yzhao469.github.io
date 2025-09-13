@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the **Gra**nular **M**echanics for **E**nergy and **D**isasters (**GRAMED**) Laboratory at the University of Nebraska, Lincoln.
+Welcome to the Granular Mechanics for Energy and Disasters (GRAMED) Laboratory at the University of Nebraska, Lincoln.
 
 Granular materials are the second most manipulated materials on Earth after water, playing a critical role in both natural processes and engineered systems. 
 
