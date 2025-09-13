@@ -13,7 +13,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the **Gra**nular **M**echanics for **E**nergy and **D**isasters (**GRAMED**) Laboratory at the University of Nebraska, Lincoln.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Granular materials are the second most manipulated materials on Earth after water, playing a critical role in both natural processes and engineered systems. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At the GRAMMED Lab, we investigate the fundamental behavior of granular materials to address pressing challenges in energy systems and disaster resilience. Our research integrates computational modeling and experimental methods to explore how granular media respond to natural and anthropogenic disturbances, with applications ranging from subsurface energy technologies to geohazard mitigation.
+
+By bridging geomechanics with energy and hazard sciences, we aim to advance predictive capabilities and inform engineering strategies that enhance disaster preparedness, improve infrastructure resilience, and enable sustainable energy development. Our interdisciplinary approach supports innovations that are rooted in fundamental mechanics yet driven by real-world impact.
