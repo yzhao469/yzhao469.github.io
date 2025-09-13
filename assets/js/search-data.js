@@ -440,11 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-2",
-          title: 'Announcement_2',
+            },},{id: "news-announcement-4",
+          title: 'Announcement_4',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_4/";
             },},{id: "news-yumeng-has-officially-started-his-new-job-as-an-assitant-professor-at-unl",
           title: 'Yumeng has officially started his new job as an assitant professor at UNL....',
           description: "",
