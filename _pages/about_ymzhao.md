@@ -1,0 +1,3 @@
+Yumeng is an assistant professor at the University of Nebraska, Lincoln (UNL). He obtained his M.S. and Ph.D. degrees in Civil Engineering from Georgia Institute of Technology in 2018 and 2024. He also holds a M.S. degree in Computational Science and Engineering from Georgia Tech in 2021. Before that, he received Bachelor's degree from Huazhong University of Science and Technology in 2017. He worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor from 2024 to 2025 before joining UNL. 
+
+He has a wide range of research interests in computational and experimental geomechanics, multiphase flow, bio-geotechnics, energy-geotechnics and geo-hazards.
