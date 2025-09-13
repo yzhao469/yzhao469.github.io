@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-announcement-2",
+          title: 'Announcement_2',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-yumeng-has-officially-started-his-new-job-as-an-assitant-professor-at-unl",
           title: 'Yumeng has officially started his new job as an assitant professor at UNL....',
           description: "",
           section: "News",},{id: "news-lumanti-has-joined-the-gramed-lab-as-a-ph-d-student-welcome",
           title: 'Lumanti has joined the GRAMED lab as a Ph.D. student. Welcome!',
           description: "",
-          section: "News",},{id: "news-announcement-3",
-          title: 'Announcement_3',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
