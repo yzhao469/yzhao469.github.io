@@ -44,9 +44,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "At Georgia Institute of Technology,CEE 4405 Introduction to Geotechnical Engineering,Summer 2023, undergraduate level,This course covers the fundamentals of soil properties and geotechnical engineering practice. Specific topics includes soil characterization and classification; compaction and soil improvement; fluid flow through porous media; stresses and strains in soils; settlement and consolidation analyses; shear strength and earth retaining structures. The course includes five laboratory sessions that provide students with hands-on experience on geotechnical materials. Syllabus - CEE 4405 Intro to Geotech Eng",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-yumeng-zhao-ph-d",
+          title: "Yumeng Zhao, Ph.D.",
+          description: "Principal Investigator",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
