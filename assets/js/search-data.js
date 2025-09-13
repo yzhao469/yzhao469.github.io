@@ -445,11 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-lumanti-has-joined-the-gramed-lab-as-a-ph-d-student-welcome",
-          title: 'Lumanti has joined the GRAMED lab as a Ph.D. student. Welcome!',
-          description: "",
-          section: "News",},{id: "news-yumeng-has-officially-started-his-new-job-as-an-assitant-professor-at-unl",
+            },},{id: "news-yumeng-has-officially-started-his-new-job-as-an-assitant-professor-at-unl",
           title: 'Yumeng has officially started his new job as an assitant professor at UNL....',
+          description: "",
+          section: "News",},{id: "news-lumanti-has-joined-the-gramed-lab-as-a-ph-d-student-welcome",
+          title: 'Lumanti has joined the GRAMED lab as a Ph.D. student. Welcome!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
