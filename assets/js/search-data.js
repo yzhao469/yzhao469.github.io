@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "At the University of Nebraska, Lincoln,MECH 325 Mechanics of Elastic Bodies,Fall 2025, undergraduate level,This course introduces the mechanics of solid materials within the range of elastic deformation with applications to science and engineering. Topics covered include static equilibrium, free body diagrams, analysis of stresses, strains and deformation in structural elements (axial, torsional and bending), states of stress (shear, bending, torsion), shear and moment diagrams for beams, displacements and deformations, column buckling, Mohr’s Circle, failure theories etc. Syllabus - MECH 3250 Mechanics of Elastic Bodies",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
